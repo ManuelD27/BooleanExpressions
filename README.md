@@ -10,4 +10,12 @@ int main() {
     bool value5 = 9 >= 6;
     bool value6 = 9 <= 6;
     
-    
+    printf("%d\n", value1);
+    printf("%d\n", value2);
+    printf("%d\n", value3);
+    printf("%d\n", value4);
+    printf("%d\n", value5);
+    printf("%d\n", value6);
+
+    return 0;
+}
